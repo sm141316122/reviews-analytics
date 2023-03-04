@@ -1,2 +1,1 @@
-"# reviews-analytics" 
-"# reviews-analytics" 
+# 計算所有留言的平均長度
